@@ -1,0 +1,16 @@
+# ACTS Test Suite Generation: Tue Apr 20 00:05:45 CEST 2021
+#  '*' represents don't care value 
+# Degree of interaction coverage: 2
+# Number of parameters: 5
+# Maximum number of values per parameter: 3
+# Number of configurations: 9
+Jmeno,Datum_narozeni,Sleva,Registrace,Destinace
+Alex Kill,12.08.1975,Duchodce,false,Tokio (ne EU)
+Alex Kill,09/29/1998,Kupon,true,Praha (EU)
+Alex Kill,2009-12-28,Student,false,Praha (EU)
+NULL,12.08.1975,Kupon,true,Tokio (ne EU)
+NULL,09/29/1998,Student,false,Tokio (ne EU)
+NULL,2009-12-28,Duchodce,true,Praha (EU)
+:))),12.08.1975,Student,true,Praha (EU)
+:))),09/29/1998,Duchodce,false,Tokio (ne EU)
+:))),2009-12-28,Kupon,false,Tokio (ne EU)
